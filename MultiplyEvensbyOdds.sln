@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyEvensbyOdds", "MultiplyEvensbyOdds\MultiplyEvensbyOdds.csproj", "{EBA56CB7-8E3D-418D-BE64-598DAB1BCCEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBA56CB7-8E3D-418D-BE64-598DAB1BCCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBA56CB7-8E3D-418D-BE64-598DAB1BCCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBA56CB7-8E3D-418D-BE64-598DAB1BCCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBA56CB7-8E3D-418D-BE64-598DAB1BCCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
